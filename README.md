@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
@@ -20,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 ## Sorting
 |  |
