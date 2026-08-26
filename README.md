@@ -26,6 +26,7 @@
 | [0042-trapping-rain-water](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0238-product-of-array-except-self](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
