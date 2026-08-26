@@ -25,6 +25,7 @@
 | [0041-first-missing-positive](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0056-merge-intervals) |
+| [0238-product-of-array-except-self](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 ## Sorting
 |  |
 | ------- |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
