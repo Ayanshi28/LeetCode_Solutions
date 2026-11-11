@@ -9,6 +9,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
@@ -62,4 +63,12 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ayanshi28/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
